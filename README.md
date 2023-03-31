@@ -1,0 +1,2 @@
+# TypicalName
+typical 
